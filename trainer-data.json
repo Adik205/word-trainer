@@ -1,0 +1,83 @@
+
+[
+    {
+        "id": 1,
+        "english": "book",
+        "russian": ["книга", "книжка"],
+        "correct": 3,
+        "incorrect": 1,
+        "needToRepeat": false
+    },
+    {
+        "id": 2,
+        "english": "apple",
+        "russian": ["яблоко"],
+        "correct": 5,
+        "incorrect": 0,
+        "needToRepeat": false
+    },
+    {
+        "id": 3,
+        "english": "house",
+        "russian": ["дом", "жилище"],
+        "correct": 2,
+        "incorrect": 3,
+        "needToRepeat": true
+    },
+    {
+        "id": 4,
+        "english": "computer",
+        "russian": ["компьютер", "вычислительная машина"],
+        "correct": 4,
+        "incorrect": 1,
+        "needToRepeat": false
+    },
+    {
+        "id": 5,
+        "english": "water",
+        "russian": ["вода"],
+        "correct": 0,
+        "incorrect": 2,
+        "needToRepeat": true
+    },
+    {
+        "id": 6,
+        "english": "friend",
+        "russian": ["друг", "приятель", "подруга"],
+        "correct": 6,
+        "incorrect": 2,
+        "needToRepeat": false
+    },
+    {
+        "id": 7,
+        "english": "school",
+        "russian": ["школа", "учебное заведение"],
+        "correct": 1,
+        "incorrect": 4,
+        "needToRepeat": true
+    },
+    {
+        "id": 8,
+        "english": "beautiful",
+        "russian": ["красивый", "прекрасный"],
+        "correct": 3,
+        "incorrect": 2,
+        "needToRepeat": false
+    },
+    {
+        "id": 9,
+        "english": "knowledge",
+        "russian": ["знание", "знания"],
+        "correct": 0,
+        "incorrect": 0,
+        "needToRepeat": false
+    },
+    {
+        "id": 10,
+        "english": "journey",
+        "russian": ["путешествие", "поездка"],
+        "correct": 1,
+        "incorrect": 3,
+        "needToRepeat": true
+    }
+]
